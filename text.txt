@@ -1,10 +1,52 @@
 helo,
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 31672d12c5b8ad0f35506261cc27cacdafeb287f
+>>>>>>> eff400bd239ed2c4a1b2f37ec2c5be3afbc1b8c0
+me no speak london...
+only russian!
+
+Upadted with Bash...
+<<<<<<< HEAD
+Update with Tortoise...
+
+Update for a second time...
+More dots...
+=======
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+me no steap london...
+only russian!
+
+>>>>>>> 4df5742748ebec29a81eb2ce5a84298dd10acb69
+>>>>>>> 31672d12c5b8ad0f35506261cc27cacdafeb287f
+Update with Tortoise...
+
+Update for a second time...
+More dots...
+<<<<<<< HEAD
+
+
+
+=======
+<<<<<<< HEAD
+
+
+
+=======
+=======
 me no speak london...
 only russian!
 
 Upadted with Bash...
 Update with Tortoise...
-
-Update for a second time...
-More dots...
+>>>>>>> ba9d720598a31d60a25ba5c492fa39ec0b149b45
+>>>>>>> 4df5742748ebec29a81eb2ce5a84298dd10acb69
+>>>>>>> 31672d12c5b8ad0f35506261cc27cacdafeb287f
+>>>>>>> eff400bd239ed2c4a1b2f37ec2c5be3afbc1b8c0
