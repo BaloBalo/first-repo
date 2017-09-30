@@ -1,13 +1,30 @@
 helo,
 
+<<<<<<< HEAD
+me no speak london...
+only russian!
+
+Upadted with Bash...
+=======
+<<<<<<< HEAD
+me no steap london...
+only russian!
+
+>>>>>>> 4df5742748ebec29a81eb2ce5a84298dd10acb69
+Update with Tortoise...
+
+Update for a second time...
+More dots...
+<<<<<<< HEAD
+
+
+
+=======
+=======
 me no speak london...
 only russian!
 
 Upadted with Bash...
 Update with Tortoise...
-
-Update for a second time...
-More dots...
-
-
-
+>>>>>>> ba9d720598a31d60a25ba5c492fa39ec0b149b45
+>>>>>>> 4df5742748ebec29a81eb2ce5a84298dd10acb69
